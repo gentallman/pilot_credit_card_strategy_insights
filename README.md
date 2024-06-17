@@ -37,6 +37,16 @@ Dividing the problem into four segments to present key insights makes the inform
   - Males: 2597 (64.93%)
   - Females: 1403 (35.08%)
 
+#### Marital Status Overview
+<p align="left">
+  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/0170abf4-2d9a-4a6b-aab7-9762a691f8d4" width=200>
+</p>
+
+- **Married Customers**: 78.40%
+  - This majority highlights the importance of family-centric financial solutions and services.
+- **Unmarried Customers**: 21.6%
+  - This significant minority requires consideration for individual-centric products and marketing approaches.
+
 #### Gender Dynamics
 <p align="left">
   <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/6c693da7-2a55-4a51-b2bb-b27452ba7a1e" width=200>
@@ -84,15 +94,6 @@ Dividing the problem into four segments to present key insights makes the inform
   - This indicates a strong presence of tech professionals, which can guide service customization and marketing strategies.
 - **Diverse Occupations**: The presence of freelancers and business owners suggests the need for a wide range of financial solutions tailored to different professional needs.
 
-#### Marital Status Overview
-<p align="left">
-  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/0170abf4-2d9a-4a6b-aab7-9762a691f8d4" width=200>
-</p>
-
-- **Married Customers**: 78.40%
-  - This majority highlights the importance of family-centric financial solutions and services.
-- **Unmarried Customers**: 21.6%
-  - This significant minority requires consideration for individual-centric products and marketing approaches.
 
 The analysis of our 4000 customers reveals a predominantly male and married demographic, with a strong presence of tech professionals aged between 25-35. Mumbai stands out as the city with the highest customer concentration. This diverse customer base necessitates a strategic approach to cater to varied age groups, professional backgrounds, and marital statuses.
 
@@ -100,13 +101,12 @@ The analysis of our 4000 customers reveals a predominantly male and married demo
 
 ![SpendingInsights](https://github.com/gentallman/mitron_bank/assets/78334851/567be01f-37c4-4baf-beb4-d99ab17604cc)
 
-**Total Spend by Category:**
+**Total Spend by Marital Status:**
 <p align="left">
-  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/a157233c-8e96-40cb-a1fa-f58203fcaf24" width=300>
+  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/ba548c00-60be-46fd-920c-684969b4e467" width=200>
 </p>
 
-- The highest expenditure is on bills, totaling ₹105 million, with an average usage of 46%.
-- Other significant spending includes ₹86 million on groceries and ₹80 million on electronics, while the least is spent on miscellaneous items, totaling ₹16 million.
+- Married individuals lead in spending with a total of ₹429 million, exceeding unmarried individuals who contribute ₹102 million.
 
 **Total Spend by Gender:**
 <p align="left">
@@ -114,13 +114,6 @@ The analysis of our 4000 customers reveals a predominantly male and married demo
 </p>
 
 - Male individuals lead in spending, accounting for ₹357 million, while females contribute ₹154 million.
-
-**Total Spend by Marital Status:**
-<p align="left">
-  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/ba548c00-60be-46fd-920c-684969b4e467" width=200>
-</p>
-
-- Married individuals lead in spending with a total of ₹429 million, exceeding unmarried individuals who contribute ₹102 million.
 
 **Total Spend by Payment Type:**
 <p align="left">
@@ -136,13 +129,6 @@ The analysis of our 4000 customers reveals a predominantly male and married demo
 
 - September has the highest spending, accounting for ₹116 million (21.84% of the total spend), followed by August with ₹101 million. May has the lowest spending at ₹68 million.
 
-**Spending Behavior across Age Groups:**
-<p align="left">
-  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/bc0ba0c1-24b8-4dcd-adcc-d8880746d915" width=500>
-</p>
-
-- Males spend more than females. The 25-34 age group has the highest spending, totaling 203 million, with male individuals spending 136 million. The 35-45 age group follows with a total spend of 191 million. The 21-24 and 45+ age groups have equal spending.
-
 **Key Performance Indicators (KPIs):**
 <p align="left">
   <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/81c1aa0c-5875-4c87-aea2-75ab687fe857" width=600>
@@ -157,12 +143,13 @@ The analysis of our 4000 customers reveals a predominantly male and married demo
 - Average income: ₹52,000
 - Average spend: ₹22,000
 
-**Income Categories Spending Behavior by Payment Types:**
+**Total Spend by Category:**
 <p align="left">
-  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/8c4e83b5-2615-408b-9029-56572edcb4e3" width=500>
+  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/a157233c-8e96-40cb-a1fa-f58203fcaf24" width=300>
 </p>
 
-- High, medium, and low-income categories predominantly use credit cards, followed by UPI transactions, debit cards, and net banking.
+- The highest expenditure is on bills, totaling ₹105 million, with an average usage of 46%.
+- Other significant spending includes ₹86 million on groceries and ₹80 million on electronics, while the least is spent on miscellaneous items, totaling ₹16 million.
 
 **City-wise Spending:**
 <p align="left">
@@ -171,3 +158,16 @@ The analysis of our 4000 customers reveals a predominantly male and married demo
 
 - Mumbai has the highest credit card transactions, exceeding 60 million. Delhi NCR follows with over 40 million credit card transactions. Both Bengaluru and Mumbai have nearly 40 million debit card transactions. Hyderabad records the lowest credit card transactions.
 
+**Spending Behavior across Age Groups:**
+<p align="left">
+  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/bc0ba0c1-24b8-4dcd-adcc-d8880746d915" width=500>
+</p>
+
+- Males spend more than females. The 25-34 age group has the highest spending, totaling 203 million, with male individuals spending 136 million. The 35-45 age group follows with a total spend of 191 million. The 21-24 and 45+ age groups have equal spending.
+
+**Income Categories Spending Behavior by Payment Types:**
+<p align="left">
+  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/8c4e83b5-2615-408b-9029-56572edcb4e3" width=500>
+</p>
+
+- High, medium, and low-income categories predominantly use credit cards, followed by UPI transactions, debit cards, and net banking.
