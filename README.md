@@ -38,10 +38,18 @@ Dividing the problem into four segments to present key insights makes the inform
   - Females: 1403 (35.08%)
 
 #### Gender Dynamics
+<p align="left">
+  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/6c693da7-2a55-4a51-b2bb-b27452ba7a1e" width=200>
+</p>
+
 - **Male Dominance**: The customer base is predominantly male, making up nearly two-thirds of the total population.
 - **Female Representation**: Despite being outnumbered, females still form over a third of the customer base, highlighting a diverse demographic.
 
 #### Age Group Profiling
+<p align="left">
+  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/ea30b7a8-479a-4516-8a1e-e5c33e199e45" width=500>
+</p>
+
 - **25-35 Age Group**:
   - Total: 1498 customers (37.45% of total)
   - Males: 966
@@ -54,6 +62,10 @@ Dividing the problem into four segments to present key insights makes the inform
   - This segment, although smaller compared to younger age groups, is significant and should not be overlooked for tailored services.
 
 #### City-wise Distribution
+<p align="left">
+  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/a31cb377-28c9-46fb-8c11-0002929a0abe" width=500>
+</p>
+
 - **Mumbai**:
   - Total: 1078 customers
   - Males: 693
@@ -64,11 +76,19 @@ Dividing the problem into four segments to present key insights makes the inform
 - These cities collectively contribute a significant portion of the customer base, indicating regional concentrations.
 
 #### Occupational Insight
+<p align="left">
+  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/c1cdec7a-198a-4259-957a-18410c5a6b2f" width=500>
+</p>
+
 - **Salaried IT Employees**: 1294 customers
   - This indicates a strong presence of tech professionals, which can guide service customization and marketing strategies.
 - **Diverse Occupations**: The presence of freelancers and business owners suggests the need for a wide range of financial solutions tailored to different professional needs.
 
 #### Marital Status Overview
+<p align="left">
+  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/0170abf4-2d9a-4a6b-aab7-9762a691f8d4" width=200>
+</p>
+
 - **Married Customers**: 78.40%
   - This majority highlights the importance of family-centric financial solutions and services.
 - **Unmarried Customers**: 21.6%
