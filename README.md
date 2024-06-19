@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/gentallman/mitron_bank/assets/78334851/9fa90eb4-ae48-4fdf-b3b7-0341950b1656" width="300">
+  <img src="https://github.com/gentallman/mitron_bank/assets/78334851/a28f2b63-10e0-4542-97cc-e0fc417adb52" width="140">
 </p>
 
 Codebasics Resume Project Challenge 8 solved by [@Smit Rana](https://www.linkedin.com/in/smit98rana/) and [@Simran Chadda](https://www.linkedin.com/in/simran-chadda/)
