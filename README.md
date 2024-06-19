@@ -49,6 +49,11 @@ Dividing the problem into four segments to present key insights makes the inform
 - Designed visually appealing dashboards using different color schemes and customized backgrounds.
 - Developed the Customer Segments and Table View sections to enhance data visibility and analysis.
 
+Final Work : 
+
+<p align="left">
+  <img src="https://github.com/gentallman/mitron_bank/assets/78334851/f1109a47-70a8-4f04-abf4-738669018b9e" width="600">
+</p>
 
 ## Customer Segments
 
