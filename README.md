@@ -1,6 +1,11 @@
 <h1 align="center"> Mitron Bank </h1>
 <h3 align="center">[ Comprehensive Analysis for Launching New Credit Card Project ]</h3>
 
+
+<p align="center">
+  <img src="https://github.com/gentallman/mitron_bank/assets/78334851/9fa90eb4-ae48-4fdf-b3b7-0341950b1656" width="300">
+</p>
+
 Codebasics Resume Project Challenge 8 solved by [@Smit Rana](https://www.linkedin.com/in/smit98rana/) and [@Simran Chadda](https://www.linkedin.com/in/simran-chadda/)
 
 Here's [LinkedIn Post](https://www.linkedin.com/in/smit98rana/) and [Canva Link](https://www.linkedin.com/in/smit98rana/) for project insights.
