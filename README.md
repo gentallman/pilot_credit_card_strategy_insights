@@ -32,7 +32,21 @@ Dividing the problem into four segments to present key insights makes the inform
 3. Income Utilizations - Calculate and present the average income utilization percentage of customers.
 4. Table View  - Present a detailed table view of individual customer data for deeper analysis.
 
+## Roles and Responsibilities:
 
+**Simran:**
+- Designed the layout and appearance of various dashboards, defining KPIs, charts, and content placement.
+- Led the data modeling process to ensure effective structuring of project data.
+- Conducted extensive research to gather project metadata and insights.
+- Developed sections on Customer Segments and Income Insights, providing valuable analysis and findings.
+- Provided continuous feedback and contributed to refining project strategies.
+
+**Smit:**
+- Implemented necessary DAX formulas, columns, and measures across all dashboards.
+- Utilized Power BI's selection and bookmark features to create a customized slicer panel for enhanced user interaction.
+- Applied Power Query Editor features such as group by, customized columns, and pivot columns for data transformation.
+- Designed visually appealing dashboards using different color schemes and customized backgrounds.
+- Developed the Income Utilization and Table View sections to enhance data visibility and analysis.
 
 
 ## Customer Segments
