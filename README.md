@@ -38,7 +38,7 @@ Dividing the problem into four segments to present key insights makes the inform
 - Designed the layout and appearance of various dashboards, defining KPIs, charts, and content placement.
 - Led the data modeling process to ensure effective structuring of project data.
 - Conducted extensive research to gather project metadata and insights.
-- Developed sections on Customer Segments and Income Insights, providing valuable analysis and findings.
+- Developed sections on Income Utilization with different components and Income Insights, providing valuable analysis and findings.
 - Designed Canva project presentation.
 - Provided continuous feedback and contributed to refining project strategies.
 
@@ -47,7 +47,7 @@ Dividing the problem into four segments to present key insights makes the inform
 - Utilized Power BI's selection and bookmark features to create a customized slicer panel for enhanced user interaction.
 - Applied Power Query Editor features such as group by, customized columns, and pivot columns for data transformation.
 - Designed visually appealing dashboards using different color schemes and customized backgrounds.
-- Developed the Income Utilization and Table View sections to enhance data visibility and analysis.
+- Developed the Customer Segments and Table View sections to enhance data visibility and analysis.
 
 
 ## Customer Segments
