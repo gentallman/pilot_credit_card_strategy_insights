@@ -27,6 +27,9 @@ Dividing the problem into four segments to present key insights makes the inform
 3. Income Utilizations - Calculate and present the average income utilization percentage of customers.
 4. Table View  - Present a detailed table view of individual customer data for deeper analysis.
 
+
+
+
 ## Customer Segments
 
 ![CustomerSegment](https://github.com/gentallman/mitron_bank/assets/78334851/1d7ef1fc-da33-49eb-babc-cbd575bd25ce)
@@ -96,6 +99,9 @@ Dividing the problem into four segments to present key insights makes the inform
 
 
 The analysis of our 4000 customers reveals a predominantly male and married demographic, with a strong presence of tech professionals aged between 25-35. Mumbai stands out as the city with the highest customer concentration. This diverse customer base necessitates a strategic approach to cater to varied age groups, professional backgrounds, and marital statuses.
+
+
+
 
 ## Spending Insights
 
@@ -171,3 +177,73 @@ The analysis of our 4000 customers reveals a predominantly male and married demo
 </p>
 
 - High, medium, and low-income categories predominantly use credit cards, followed by UPI transactions, debit cards, and net banking.
+
+
+
+
+## Income Utilization
+
+![IncomeUtilization](https://github.com/gentallman/mitron_bank/assets/78334851/a8946523-abdb-49ef-9007-65a287de35cc)
+
+#### Key Performance Indicators (KPIs)
+<p align="left">
+  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/fdf195c5-7d0f-437f-9344-087064df30f5" width=650>
+</p>
+
+- **Total Monthly Income**: $207 million
+- **Total Monthly Spend**: $88 million
+- **Average Monthly Income**: $52,000
+- **Average Monthly Spend**: $22,000
+- **Average Income Utilization**: 42.95%
+  - This percentage indicates how effectively households utilize their income.
+
+#### Average Income, Average Spend, & Income Utilization by Age Group
+<p align="left">
+  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/66be27a5-2e3c-44ff-ad8f-86df46b1ab52" width=500>
+</p>
+
+- **25-34 Age Group**:
+  - Highest income, expenditure, and utilization rate at 43.79%.
+- **35-45 Age Group**:
+  - Utilization rate of 46.61%, the second-highest among age groups.
+
+#### Total Spend & Income Utilization by Occupation
+<p align="left">
+  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/f68832eb-259c-4a78-ac55-aba0a2da54f7" width=500>
+</p>
+
+- **Salaried IT Professionals**:
+  - Income: $477 million
+  - Expenditure: $244 million
+  - Utilization Rate: 50.93%
+- **Business Owners**:
+  - Income: $265 million
+  - Expenditure: $88 million
+  - Utilization Rate: 33.24%
+- **Government Employees**:
+  - Lowest utilization rate at 28.96%.
+
+#### Average Income, Average Spend, & Income Utilization by City
+<p align="left">
+  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/d221d36c-8534-4538-bfe0-86a3bf4bba87" width=500>
+</p>
+
+- **Mumbai**:
+  - Highest income and expenditure
+  - Utilization Rate: 51.58%
+- **Chennai, Delhi NCR, Bengaluru, Hyderabad**:
+  - Exhibit diverse utilization rates, indicating varied financial behaviors across these cities.
+
+#### Total Spend & Income Utilization by Payment Type
+<p align="left">
+  <img src = "https://github.com/gentallman/mitron_bank/assets/78334851/d1b1e668-4028-454c-9d48-1adfd361c64f" width=500>
+</p>
+
+- **Credit Cards**:
+  - Majority of spending at $216 million
+  - Utilization Rate: 17.26%
+- **Other Payment Methods**:
+  - Include UPI, debit cards, and net banking
+  - **Net Banking**: Lowest utilization rate at 4.29%
+
+The data highlights significant insights into income and spending patterns across different demographics. Key observations include high utilization rates among young adults and IT professionals, with credit cards being the predominant payment method. Cities like Mumbai show the highest financial activity, whereas government employees have the lowest income utilization rate.
