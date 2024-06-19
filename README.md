@@ -39,6 +39,7 @@ Dividing the problem into four segments to present key insights makes the inform
 - Led the data modeling process to ensure effective structuring of project data.
 - Conducted extensive research to gather project metadata and insights.
 - Developed sections on Customer Segments and Income Insights, providing valuable analysis and findings.
+- Designed Canva project presentation.
 - Provided continuous feedback and contributed to refining project strategies.
 
 **Smit:**
