@@ -10,7 +10,8 @@
   <img src="https://github.com/gentallman/Retail-Supply-Chain-Operations-Management/assets/78334851/ed21a0ff-f400-4a4d-9a6c-80c76bf137e7" alt="Live Project" width="100">
 </a>
 
-
+######
+  
 Codebasics Resume Project Challenge 8 solved by [@Smit Rana](https://www.linkedin.com/in/smit98rana/) and [@Simran Chadda](https://www.linkedin.com/in/simran-chadda/)
 
 Here's [LinkedIn Post](https://www.linkedin.com/posts/smit98rana_codebasicsresumeprojectchallenge-like-comment-activity-7209229304491048962-AAWj?utm_source=share&utm_medium=member_desktop) and [Canva Link](https://www.canva.com/design/DAGIAHWlYyc/ZI-TQ1FHmcoK5Sw-B5JNXw/view?utm_content=DAGIAHWlYyc&utm_campaign=designshare&utm_medium=link&utm_source=editor) for project insights.
