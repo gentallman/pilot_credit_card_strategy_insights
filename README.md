@@ -1,5 +1,5 @@
-<h1 align="center"> Mitron Bank </h1>
-<h3 align="center">[ Comprehensive Analysis for Launching New Credit Card Project ]</h3>
+<h1 align="center"> Pilot Credit Card Strategy Insights </h1>
+<h3 align="center">[ Comprehensive Analysis for Demograhpics and Spending ]</h3>
 
 
 <p align="center">
