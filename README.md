@@ -6,7 +6,7 @@
   <img src="https://github.com/gentallman/mitron_bank/assets/78334851/a28f2b63-10e0-4542-97cc-e0fc417adb52" width="140">
 </p>
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNWE0N2Q2NGYtMWI0MS00NjFmLWI3OWQtNDg1NmQxYWE4ZjcxIiwidCI6IjNmMTcwMmFmLTNmNGUtNDk1ZS04YzhiLTEzNzIxZjM5YjFiMCJ9">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMzYwMTU5YTgtMzFkMS00NzZiLWFjMDUtYmY2YTU2N2EwZTQyIiwidCI6IjNmMTcwMmFmLTNmNGUtNDk1ZS04YzhiLTEzNzIxZjM5YjFiMCJ9">
   <img src="https://github.com/gentallman/Retail-Supply-Chain-Operations-Management/assets/78334851/ed21a0ff-f400-4a4d-9a6c-80c76bf137e7" alt="Live Project" width="100">
 </a>
 
